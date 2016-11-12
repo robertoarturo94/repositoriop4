@@ -6,6 +6,7 @@ public class claseA{
   public claseA(){
    x = "";
    y = 0; 
+   z = 0;
   }
   public void mensaje()
   {
