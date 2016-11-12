@@ -1,8 +1,12 @@
 public class claseA{
-  private int x;
+  private String x;
   private int y;
   public claseA(){
-   x = 0;
+   x = "";
    y = 0; 
+  }
+  public void mensaje()
+  {
+  System.out.println("Hola");
   }
 }
